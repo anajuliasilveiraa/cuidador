@@ -1,4 +1,7 @@
 CuidaDor App 💜
+Desenvolvido por Ana Julia da Silveira e Floriano Pellegrini Laste
+Dezembro de 2025 - UNISC
+
 Aplicativo Flutter/Dart para monitoramento de rotinas de exercícios e níveis de dor.
 
 Frontend: Flutter & Dart
@@ -11,6 +14,10 @@ Para rodar este projeto, você precisa do Flutter SDK instalado.
 - Clone o Repositório;
 - Instale as Dependência;
 - Execute o App.
+
+O app está dentro da pasta lib (main.dart);
+screens em lib > screens;
+
 
 --------------------------------------------------------------------------
 ## Getting Started
