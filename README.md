@@ -1,7 +1,18 @@
-# app
+CuidaDor App 💜
+Aplicativo Flutter/Dart para monitoramento de rotinas de exercícios e níveis de dor.
 
-A new Flutter project.
+Frontend: Flutter & Dart
 
+Backend Banco de Dados MySQL na API PythonAnywhere
+URL: https://najusilveira.pythonanywhere.com
+
+Para rodar este projeto, você precisa do Flutter SDK instalado.
+
+- Clone o Repositório;
+- Instale as Dependência;
+- Execute o App.
+
+--------------------------------------------------------------------------
 ## Getting Started
 
 This project is a starting point for a Flutter application.
